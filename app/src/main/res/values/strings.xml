@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GerZinApp</string>
+    <string name="mode_scanner">Работа со сканером</string>
+    <string name="mode_list">Работа со списком</string>
+    <string name="flip">Перевернуть экран</string>
+    <string name="scan">Сканировать</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Начать</string>
+    <string name="pick_csv">Выбрать CSV</string>
+    <string name="status_ready">Готов</string>
+    <string name="status_scanning">Сканирование...</string>
+    <string name="status_wait_tag">Поднесите метку</string>
+    <string name="status_write_ok">Записано ✓</string>
+    <string name="status_error">Ошибка</string>
+    <string name="error_too_long">Данные слишком длинные для этой метки</string>
+    <string name="csv_progress">%1$s (%2$d из %3$d)</string>
+    <string name="no_csv_selected">CSV файл не выбран</string>
+    <string name="csv_completed">Список завершен</string>
+</resources>
+
